@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 """
 개미 수열 만들기 (Look and say sequence)
 1
